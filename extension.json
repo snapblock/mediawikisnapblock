@@ -1,13 +1,12 @@
 {
-	"name": "Scratchblocks",
-	"version": 3.1,
+	"name": "SnapBlock",
+	"version": 0.1.0,
 	"author": [
-		"ErnieParke",
-		"blob8108"
+		"R4356th"
 	],
-	"url": "https://github.com/tjvr/wiki-scratchblocks",
-	"description": "This plugin takes text-based Scratch code and renders it in a graphical format.",
-	"license-name": "MIT",
+	"url": "https://github.com/snapblock/wiki-scratchblocks",
+	"description": "This plugin takes text-based Snap! code and renders it in a graphical format.",
+	"license-name": "GPL",
 	"type": "parserhook",
 	"AutoloadClasses": {
 		"ScratchblockHook": "ScratchblockHooks.php"
