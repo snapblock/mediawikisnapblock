@@ -1,3 +1,3 @@
-[submodule "scratchblocks"]
-	path = scratchblocks
-	url = https://github.com/tjvr/scratchblocks.git
+[submodule "snapblocks"]
+	path = snapblocks
+	url = https://github.com/snapblock/snapblocks.git
